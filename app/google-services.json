@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "414753287232",
+    "firebase_url": "https://assignment5-a9dbd.firebaseio.com",
+    "project_id": "assignment5-a9dbd",
+    "storage_bucket": "assignment5-a9dbd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:414753287232:android:b375fe93324b0111",
+        "android_client_info": {
+          "package_name": "edu.montclair.mobilecomputing.m_alrajab.week11firebasechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "414753287232-hgj1clmfet71qeh3vg25v93o823djirt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "edu.montclair.mobilecomputing.m_alrajab.week11firebasechat",
+            "certificate_hash": "fbabe22dfab9c136f24649a0e28240958146ef4c"
+          }
+        },
+        {
+          "client_id": "414753287232-l20htlt6htvgjv6tk184vnpd0mfpc04u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLSO72XoRWdaWkGOIjBALNXk9dOz70360"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "414753287232-l20htlt6htvgjv6tk184vnpd0mfpc04u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
